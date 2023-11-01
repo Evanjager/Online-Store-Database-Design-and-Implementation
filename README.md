@@ -1,6 +1,10 @@
 # Online-Store-Database-Design-and-Implementation
-The project will build an online store like Amazon.com selling whatever products you want. The first step is to develop a database design and convert that design into SQL DDL. Description:
+The project will build an online store like Amazon.com selling whatever products you want. 
 
+- Develop a database design.
+- Convert that design into SQL DDL. 
+
+Description:
 - A Customer is identified by an auto-increment id. Other attributes include first name, last name, email, phone number, street address, city, province/state, postal code, and country. A Customer also has a user id (unique) and password.
 
 - A customer may have one or more payment methods. A Payment Method has an auto-increment id for a key, a payment method type (PayPal, Visa, etc.), payment number, and payment expiry date.
